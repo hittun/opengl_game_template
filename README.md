@@ -1,7 +1,8 @@
-# OPENGL_GAME_TEMPLATE
+# OpenGL Game Template
 A OpenGL Game Template in VSCODE
 
-
+## Ready for VSCode
+Make sure your vscode supports C++
 
 ## How to run this project
 
