@@ -5,6 +5,8 @@ A OpenGL Game Template in VSCode
 Make sure your vscode supports C++
 Otherwise, read `https://github.com/SDchao/AutoVsCEnv_WPF` or Download `https://github.com/SDchao/AutoVsCEnv_WPF/releases/`
 
+I Choose `C:\\MinGW` as Floder
+
 ## How to run this project
 
 1.  Clone this repo
