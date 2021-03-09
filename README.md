@@ -3,6 +3,7 @@ A OpenGL Game Template in VSCODE
 
 ## Ready for VSCode
 Make sure your vscode supports C++
+Otherwise, read `https://github.com/SDchao/AutoVsCEnv_WPF`
 
 ## How to run this project
 
